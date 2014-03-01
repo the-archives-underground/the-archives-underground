@@ -1,4 +1,1 @@
-the-archives-underground
-========================
-
-Exploring an alternative setup for the MagicDuel Archives (http://md-archives.com/)
+Built upon the MIT licensed [Hyde](http://hyde.getpoole.com/) for Jekyll from Poole.
