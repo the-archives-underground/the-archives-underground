@@ -1,7 +1,12 @@
 ---
 layout: post
 title: The Marind's Bell Dojo
+author: Calyx of Isis
 ---
+
+<p class="message">
+This article appears to be the oldest record in the archives. Calyx's Dojo no longer exists.
+</p>
 	
 It is a common complaint in-game and in the forums about how hard it is to get partners for healing rituals. Even if you find a partner, where can you go to perform the ritual in safety? How many times have each of us been all set for a healing ritual and have someone come along and wipe out our creatures and our VE? Every player of Magic Duel has experienced this many times.
 
