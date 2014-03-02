@@ -6,9 +6,9 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            The Archives Underground
-tagline:          'Just a test'
-description:      'The Archives is a repository of information containing the living history of MagicDuel'
+title:            The Archives
+tagline:          'The MagicDuel Archives'
+description:      'The Archives are a repository of information containing the living history of MagicDuel'
 url:              http://the-archives-underground.github.io
 
 author:
@@ -20,4 +20,4 @@ paginate:         5
 version:          2.0.0
 
 github:
-  repo:           https://github.com/ctogden/the-archives-underground
+  repo:           https://github.com/the-archives-underground/the-archives-underground.github.io
